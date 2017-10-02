@@ -23,5 +23,5 @@ dependencies:
     - caffe
     - pip:
         - moviepy
-        - tensorflow
+        - tensorflow=0.12.1
         - keras
