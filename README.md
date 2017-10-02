@@ -3,7 +3,7 @@ Starter Kit for UofA robomasters
 
 There are two ways to get up and running:
 
-## Anaconda Environment (recomended)
+## [Anaconda Environment](doc/configure_via_anaconda.md) (recommended)
 It is recommended because I am using conda. I cannot help you if you choose to use Docker.
 
 Supported Sytems: Linux (CPU), Mac (CPU), Windows (CPU)     
@@ -14,7 +14,10 @@ Supported Sytems: Linux (CPU), Mac (CPU), Windows (CPU)
 | More community support       | Implementation is local and OS specific            |
 | More heavily adopted         |                                                    |
 
-## Docker
+## Docker (not recommended)
+If is not recommended because I don't know how to use it. I don't even add a tutorial to it.
+I just want to have these two tables and convince you to use Conda.
+
 Supported Systems : AWS (CPU, GPU), Linux (CPU), Mac (CPU), Windows (CPU)     
 
 | Pros                                | Cons                                 |
