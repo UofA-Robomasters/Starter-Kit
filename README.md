@@ -26,3 +26,7 @@ Supported Systems : AWS (CPU, GPU), Linux (CPU), Mac (CPU), Windows (CPU)
 | AWS, GPU support                    | Less community support               |
 | Practice with Docker              | Have to manage images and containers |
 |                                     |                                      |
+
+### Error when import plt for mac users
+This is caused by different rendering back end of matplotlib.
+Follow the instructions [here](https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python)
