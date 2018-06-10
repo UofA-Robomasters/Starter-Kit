@@ -1,9 +1,9 @@
 [//]: # (Image References)
 
-[image1]: ./images/paths.png "Paths"
-[image2]: ./images/path.png "add path"
-[image3]: ./images/create.png "create"
-[image4]: ./images/conda.png "conda"
+[image1]: images/paths.PNG "Paths"
+[image2]: ./images/path.PNG "add path"
+[image3]: ./images/create.PNG "create"
+[image4]: ./images/conda.PNG "conda"
 [image5]: ./images/conda_2.PNG "conda2"
 
 ### add paths
