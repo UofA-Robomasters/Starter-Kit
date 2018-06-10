@@ -35,7 +35,10 @@ Supported Systems : AWS (CPU, GPU), Linux (CPU), Mac (CPU), Windows (CPU)
 [pycharm website](https://www.jetbrains.com/pycharm/)
 
 ### 3. use pycharm with miniconda
+If you are mac user, nothing you need to do. It has been set up.
 
+Windows users please check this tutorial.
+[set up your first pycharm project](doc/paths.md)
 
 ### Error when import plt for mac users
 This is caused by different rendering back end of matplotlib.
