@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image3]: ./images/create.png "create"
-[image4]: ./images/conda.png "conda"
+[image3]: ./images/create.PNG "create"
+[image4]: ./images/conda.PNG "conda"
 [image5]: ./images/conda_2.PNG "conda2"
 
 ### create a new project
