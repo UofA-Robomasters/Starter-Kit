@@ -40,6 +40,8 @@ If you are mac user, nothing you need to do. It has been set up.
 Windows users please check this tutorial.
 [set up your first pycharm project](doc/paths.md)
 
+After paths are set up, create a conda environment in [pycharm](doc/pycharm.md).
+
 ### Error when import plt for mac users
 This is caused by different rendering back end of matplotlib.
 Follow the instructions [here](https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python)
