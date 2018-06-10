@@ -39,20 +39,10 @@ Using Anaconda consists of the following:
 - **Mac:** http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install
 - **Windows:** http://conda.pydata.org/docs/install/quick.html#windows-miniconda-install
 
-**Setup** the `robo` environment. 
-
-```sh
-git clone https://github.com/UofA-Robomasters/Starter-Kit.git
-cd Starter-Kit
-```
-
-If you are on Windows, **rename**   
-`meta_windows_patch.yml` to   
-`meta.yml`
 
 **Create** robo.  Running this command will create a new `conda` environment that is provisioned with all libraries you need to be successful in this program.
 ```
-conda env create -f environment.yml
+conda create --name robo python=3.5
 ```
 
 **Verify** that the robo environment was created in your environments:
@@ -65,14 +55,6 @@ conda info --envs
 
 ```sh
 conda clean -tp
-```
-
-### Uninstalling 
-
-To uninstall the environment:
-
-```sh
-conda env remove -n robo
 ```
 
 ---
@@ -98,8 +80,11 @@ or
 $ activate robo
 ```
 
-That's it. Now all of the `robo` libraries are available to you.
-
-And they are very likely to be out-dated and far more than enough.
-
 To exit the environment when you have completed your work session, simply close the terminal window.
+
+---
+### install additional packages
+install either through pip or conda. Google "python install packagename" is recommended because it is possible that packages on both pip and conda is outdated.
+```sh
+$ pip install numpy
+```

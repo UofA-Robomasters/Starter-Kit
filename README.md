@@ -27,6 +27,16 @@ Supported Systems : AWS (CPU, GPU), Linux (CPU), Mac (CPU), Windows (CPU)
 | Practice with Docker              | Have to manage images and containers |
 |                                     |                                      |
 
+## Procedures
+### 1. set up virtual environment with miniconda
+[Anaconda Environment](doc/configure_via_anaconda.md)
+
+### 2. download and install pycharm (community version)
+[pycharm website](https://www.jetbrains.com/pycharm/)
+
+### 3. use pycharm with miniconda
+
+
 ### Error when import plt for mac users
 This is caused by different rendering back end of matplotlib.
 Follow the instructions [here](https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python)
