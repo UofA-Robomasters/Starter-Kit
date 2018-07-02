@@ -54,6 +54,7 @@ The image should be loaded by now
 
 FORMAT MUST BE SET TO YOLO!!!!!!!!!!!
 #YOLO!!!!!!!!!
+YOLO!!!!!!!!!
 ![alt text][image7]
 
 Then you can label images
