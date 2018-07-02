@@ -7,6 +7,7 @@
 [image4]: ./images/draw_rect.PNG "draw_rect"
 [image5]: ./images/label_dir.PNG "label_dir"
 [image6]: ./images/hotkeys.PNG "hotkeys"
+[image7]: ./images/yolo.PNG "yolo"
 
 ## installation
 
@@ -50,6 +51,10 @@ Add label directory
 
 The image should be loaded by now
 ![alt text][image3]
+
+FORMAT MUST BE SET TO YOLO!!!!!!!!!!!
+#YOLO!!!!!!!!!
+![alt text][image7]
 
 Then you can label images
 ![alt text][image4]
