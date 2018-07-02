@@ -6,7 +6,7 @@
 [image3]: ./images/image_added.PNG "images_added"
 [image4]: ./images/draw_rect.PNG "draw_rect"
 [image5]: ./images/label_dir.PNG "label_dir"
-[image4]: ./images/hotkeys.PNG "hotkeys"
+[image6]: ./images/hotkeys.PNG "hotkeys"
 
 ## installation
 
