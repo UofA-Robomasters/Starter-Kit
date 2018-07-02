@@ -6,6 +6,7 @@
 [image3]: ./images/image_added.PNG "images_added"
 [image4]: ./images/draw_rect.PNG "draw_rect"
 [image5]: ./images/label_dir.PNG "label_dir"
+[image4]: ./images/hotkeys.PNG "hotkeys"
 
 ## installation
 
@@ -52,3 +53,6 @@ The image should be loaded by now
 
 Then you can label images
 ![alt text][image4]
+
+Hotkeys are shown below
+![alt text][image6]
