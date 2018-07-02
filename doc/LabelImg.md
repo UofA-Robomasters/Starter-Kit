@@ -55,4 +55,5 @@ Then you can label images
 ![alt text][image4]
 
 Hotkeys are shown below
+
 ![alt text][image6]
