@@ -25,19 +25,7 @@ In China:
 链接:https://pan.baidu.com/s/1G7Yvtz7d-zj-FKdMS44_Aw  密码:ncc4
 
 ### Mac OS
-in terminal
-
-```commandline
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-git clone https://github.com/tzutalin/labelImg.git
-cd labelImg
-
-brew install qt
-brew install libxml2
-make qt5py3
-python labelImg.py
-```
+Follow the instructions here : https://pan.baidu.com/s/10SMnZVMeOjKWI9wF6MxVnQ
 
 ## Usage
 After the command above it done. This should show up.
