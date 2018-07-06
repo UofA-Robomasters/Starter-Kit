@@ -58,8 +58,6 @@ brew update
 brew install git
 ```
 
-# Installation
-
 Now, we got the tools that we need. We can download the source code and install the labelImg on our brand now Mac.
 
 #### Step 1: Download the source code
