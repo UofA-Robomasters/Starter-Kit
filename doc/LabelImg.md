@@ -30,7 +30,7 @@ In China:
 ### Mac OS
 
 There are two ways. Using Linux in virtual machine or build from source.
-### 1. Virtual machine
+### 1. Virtual machine (RECOMMENDED)
 Follow the instructions here : https://pan.baidu.com/s/10SMnZVMeOjKWI9wF6MxVnQ
 
 ### 2. Build from source
